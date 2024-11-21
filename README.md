@@ -1,2 +1,2 @@
 # khetiConnect
-Flutter Projext : KhetiConnect
+Flutter Project : KhetiConnect
